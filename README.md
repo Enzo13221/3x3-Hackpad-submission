@@ -29,6 +29,7 @@ This repository contains the source files for my keyboard firmware. It includes 
 | Cherry MX Switch    | 9        | Mechanical switches    |
 | Keycaps             | 9        | Standard keycaps       |
 | Seeed XIAO RP2040   | 1        | Microcontroller board  |
+| Case                | 1        | Case for hackpad       |
 
 ---
 
