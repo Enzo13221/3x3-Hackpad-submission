@@ -23,13 +23,16 @@ This repository contains the source files for my keyboard firmware. It includes 
 
 ## Bill of Materials (BOM)
 
-| Part Name           | Quantity | Notes                  |
-|---------------------|----------|------------------------|
-| PCB                 | 1        | Custom PCB             |
-| Cherry MX Switch    | 9        | Mechanical switches    |
-| Keycaps             | 9        | Standard keycaps       |
-| Seeed XIAO RP2040   | 1        | Microcontroller board  |
-| Case                | 1        | Case for hackpad       |
+| Part Name           | Quantity |
+|---------------------|----------|
+| PCB                 | 1        |
+| Cherry MX Switch    | 9        |
+| Keycaps             | 9        |
+| Seeed XIAO RP2040   | 1        |
+| Case                | 1        |
+| M3x16 Bolt          | 4        | 
+| M3 Heatset          | 4        |
+| SK6812 MINI LEDs    | 2        |
 
 ---
 
